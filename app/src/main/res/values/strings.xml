@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Games List</string>
+
+    <string-array name="data_name">
+        <item>Mobile Legends</item>
+        <item>Dota 2</item>
+        <item>Arena Of Valor</item>
+        <item>Fifa 23</item>
+        <item>God Of War</item>
+        <item>Grand Theft Auto V</item>
+        <item>Resident Evil</item>
+        <item>Roblox</item>
+        <item>X-Plane</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Mobile Legends: Bang Bang adalah permainan video seluler ber-genre multiplayer online battle arena (MOBA) yang dikembangkan dan diterbitkan oleh Moonton, anak perusahaan dari ByteDance.</item>
+        <item>Dota 2 adalah video game multiplayer online battle arena (MOBA) 2013 oleh Valve.  Gim ini merupakan sekuel dari Defense of the Ancients (DotA), mod buatan komunitas untuk Warcraft III: Reign of Chaos dari Blizzard Entertainment.  Dota 2 dimainkan dalam pertandingan antara dua tim yang terdiri dari lima pemain, dengan masing-masing tim menempati dan mempertahankan basis terpisah mereka sendiri di peta.  Masing-masing dari sepuluh pemain secara mandiri mengontrol karakter kuat yang dikenal sebagai "pahlawan" yang semuanya memiliki kemampuan unik dan gaya permainan yang berbeda. </item>
+        <item>Arena of Valor, sebelumnya Strike of Kings adalah adaptasi internasional dari Honor of Kings, sebuah arena pertarungan daring multipemain yang dikembangkan oleh  TiMi Studio Group dan diterbitkan oleh Level Infinite untuk Android, iOS, dan Nintendo Switch untuk pasar di luar Tiongkok Daratan.</item>
+        <item>FIFA 23 adalah game simulasi bertema sepak bola yang dirilis oleh Electronic Arts (EA) dan merupakan bagian dari seri FIFA. Gim ini adalah seri ke-30 di seri permainan tersebut. Gim ini dapat dimainkan di komputer, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox seri X/S, dan Google Stadia. Edisi ini akan menjadi edisi final atas kerjasama EA dengan FIFA di seri sepak bola. Gim sepak bola selanjutnya akan dirilis dengan tidak menggunakan nama FIFA dan akan diberi EA Sports FC. </item>
+        <item>God of War adalah franchise game aksi-petualangan yang dibuat oleh David Jaffe di Sony`s Santa Monica Studio. Itu dimulai pada tahun 2005 di konsol video game PlayStation 2 (PS2) dan telah menjadi seri unggulan untuk PlayStation, terdiri dari sembilan angsuran di berbagai platform. Berdasarkan mitologi kuno, ceritanya mengikuti Kratos, seorang prajurit Spartan dan kemudian Dewa Perang Yunani, yang ditipu untuk membunuh keluarganya oleh mantan tuannya, Dewa Perang Yunani asli Ares</item>
+        <item>Grand Theft Auto V (GTA 5) adalah permainan laga-petualangan 2013 yang dikembangkan oleh Rockstar North dan diterbitkan oleh Rockstar Games. Ini adalah entri utama pertama dalam seri Grand Theft Auto sejak 2008 Grand Theft Auto IV. Berlatar di dalam negara bagian fiksi San Andreas, yang berbasis di California Selatan, kisah pemain tunggal mengikuti tiga kriminal dan upaya mereka untuk melakukan pencurian sementara di bawah tekanan dari agen pemerintah dan tokoh-tokoh kejahatan yang kuat.</item>
+        <item>Resident Evil adalah franchise video game terlaris Capcom, dengan 117 juta unit terjual di seluruh dunia pada Juni 2021. Ini adalah seri game horor terlaris, selain adaptasi film menjadi seri film video game live-action terlaris. , menjadikan Resident Evil sebagai waralaba dengan pendapatan tertinggi dalam genre horor dan zombie.</item>
+        <item>Roblox adalah sebuah platform permainan daring dan sistem pembuatan permainan yang memungkinkan pengguna memprogram permainan dan memainkan permainan yang dibuat oleh pengguna lain. Didirikan oleh David Baszucki dan almarhum Erik Cassel pada tahun 2004 dan secara resmi dirilis pada tahun 2006, platform ini menjadi tempat permainan yang dibuat pengguna dalam banyak genre, seperti permainan balap, permainan bermain-peran, simulasi dan kursus rintangan, diberi kode dalam bahasa pemrograman Lua.</item>
+        <item>X-Plane adalah seri mesin simulasi penerbangan yang dikembangkan dan diterbitkan oleh Laminar Research pada tahun 1995. X-Plane adalah satu-satunya simulator penerbangan yang cocok untuk Windows dan macOS, dengan versi desktop komersial dijual untuk macOS, Windows, dan Linux.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/mobile_legends</item>
+        <item>@drawable/dota_2</item>
+        <item>@drawable/aov</item>
+        <item>@drawable/fifa_23</item>
+        <item>@drawable/god_of_war</item>
+        <item>@drawable/gta_v</item>
+        <item>@drawable/resident_evil</item>
+        <item>@drawable/roblox</item>
+        <item>@drawable/xplane</item>
+    </integer-array>
+</resources>
